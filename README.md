@@ -8,6 +8,8 @@ published by the Free Software Foundation, either version 3 of
 the License, or (at your option) any later version.
 
 
+26/06/19 - Added V6 Tool components
+
 25/06/19 - Corrections to TC-FACE
 
 24/06/19 - Intital Upload
