@@ -3,7 +3,7 @@ Print the required number of parts as listed below (for four V6 Bowden Tools).
 4 x V6 Cable Support.stl   
 4 x V6 PCF Fan Bracket.stl   
 4 x V6 Receiver Top.stl   
-4 x V6 PCF Duct.stl   (Print from Hight-Temperature material)
+4 x V6 PCF Duct.stl (Print from Hight-Temperature material).   
 2 x V6 Dock Cables(Mirror).stl   
 2 x V6 Dock Cables.stl   
 
