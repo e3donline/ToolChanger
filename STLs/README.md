@@ -2,9 +2,9 @@ Print the required number of parts as listed below.
 
 1 x Tool-Changer Cover Body.stl  
 
-    Tool-Changer Cover Dot.stl  
-    Tool-Changer Cover Long.stl  
-    Tool-Changer Cover Triangle.stl  
+   Tool-Changer Cover Dot.stl  
+   Tool-Changer Cover Long.stl  
+   Tool-Changer Cover Triangle.stl  
 
 1 x X-Carriage Cable Bracket.stl  
 1 x X-Carriage Cables.stl   
