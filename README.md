@@ -7,6 +7,8 @@ modify it under the terms of the General Public License as
 published by the Free Software Foundation, either version 3 of
 the License, or (at your option) any later version.
 
+24/02/20 - Added modified V6 Fan Duct STL for Winsinn Fans
+
 05/08/19 - Added README.md to the STLs folders  
 
 31/07/19 - Added step files for printed parts
