@@ -8,6 +8,8 @@ Print the required number of parts as listed below.
 
 1 x X-Carriage Cable Bracket.stl  
 1 x X-Carriage Cables.stl   
+2 x Hemera Bowden Bracket.stl
+
 
 Typical slicer settings.  
    
